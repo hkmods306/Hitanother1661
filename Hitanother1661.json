@@ -83,6 +83,12 @@
       "username": "Username",
       "password": "password",
       "expire_date": "2026-12-28"
+    },
+    {
+      "device_id": "7ec370c32be2231d",
+      "username": "Username",
+      "password": "password",
+      "expire_date": "2026-12-29"
     }
   ]
 }
