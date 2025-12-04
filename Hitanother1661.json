@@ -215,6 +215,12 @@
       "username": "Username",
       "password": "password",
       "expire_date": "2025-12-21"
+    },
+    {
+      "device_id": "dcaf012bcba77346",
+      "username": "Username",
+      "password": "password",
+      "expire_date": "2026-01-04"
     }
   ]
 }
