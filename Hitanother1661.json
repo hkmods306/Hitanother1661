@@ -31,18 +31,6 @@
       "expire_date": "2025-12-06"
     },
     {
-      "device_id": "1be62f241c4b620d",
-      "username": "Username",
-      "password": "password",
-      "expire_date": "2025-12-21"
-    },
-    {
-      "device_id": "58779911f71d56dd",
-      "username": "Username",
-      "password": "password",
-      "expire_date": "2025-12-21"
-    },
-    {
       "device_id": "5dd26134054c32b8",
       "username": "Username",
       "password": "password",
@@ -89,12 +77,6 @@
       "username": "Username",
       "password": "password",
       "expire_date": "2025-12-29"
-    },
-    {
-      "device_id": "39e48a695d88886d",
-      "username": "Username",
-      "password": "password",
-      "expire_date": "2025-12-21"
     }, 
     {
       "device_id": "1dab237eaf60481b",
@@ -107,13 +89,7 @@
       "username": "Username",
       "password": "password",
       "expire_date": "2025-12-21"
-    },
-    {
-      "device_id": "dc440ce873eec36b",
-      "username": "Username",
-      "password": "password",
-      "expire_date": "2025-12-21"
-    },
+    },  
     {
       "device_id": "b22a9108a40539e4",
       "username": "Username",
@@ -185,13 +161,7 @@
       "username": "Username",
       "password": "password",
       "expire_date": "2026-01-01"
-    },
-    {
-      "device_id": "62d35d73b21f547b",
-      "username": "Username",
-      "password": "password",
-      "expire_date": "2026-01-01"
-    },
+    },   
     {
       "device_id": "c4317eea91902e04",
       "username": "Username",
