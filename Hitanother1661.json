@@ -16,6 +16,12 @@
       "device_id": "473e334eb5bf73f1",
       "username": "Username",
       "password": "password",
+      "expire_date": "2026-04-22"
+    },
+    {
+      "device_id": "473e334eb5bf73f1",
+      "username": "Username",
+      "password": "password",
       "expire_date": "2025-04-22"
     },
     {
